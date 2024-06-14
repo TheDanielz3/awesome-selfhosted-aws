@@ -23,6 +23,8 @@ Elastic Compute Cloud
 * [Minio](https://github.com/minio/minio) - Open source object storage server compatible with Amazon S3 APIs.
 * [Garage](https://garagehq.deuxfleurs.fr/) – An open-source distributed object storage service tailored for self-hosting
 * [SeaweedFS](https://github.com/seaweedfs/seaweedfs) – SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files.
+* [Zenko](https://github.com/scality/cloudserver) – Zenko CloudServer, an open-source Node.js implementation of the Amazon S3 protocol on the front-end and backend storage capabilities to multiple clouds, including Azure and Google.
+ 
 
 ## Related Lists
 
